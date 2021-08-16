@@ -1,3 +1,8 @@
+Cryptographic App
+
+![](LockUnlock.png)
+
+
 This is a console application created to provide Cryptographic Hashes to text and files. There are ten different options listed below
 
 OPTIONS:
