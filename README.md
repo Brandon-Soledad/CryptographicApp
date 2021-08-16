@@ -14,3 +14,5 @@ Option 9:Sign a given file from a given password and write the signature to a fi
 Option 10:Verify a given data file and its signature file under a given public key file.
 
 Example output below:
+
+![](outputexample.png)
