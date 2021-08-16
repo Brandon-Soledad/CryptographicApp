@@ -15,4 +15,4 @@ Option 10:Verify a given data file and its signature file under a given public k
 
 Example output below:
 
-![](outputexample.png)
+
