@@ -1,4 +1,4 @@
-Cryptographic App using cSHAKE256 and KMACXOF256
+Cryptographic App using cSHAKE256 (SHA-3) and KMACXOF256
 
 ![](LockUnlock.jpg)
 
