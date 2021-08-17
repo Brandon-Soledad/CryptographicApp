@@ -2,7 +2,8 @@ Cryptographic App
 
 ![](LockUnlock.jpg)
 
-This is a console application created to provide Cryptographic Hashes to text and files. There are ten different options listed below
+This is a console application created to provide Cryptographic Hashes to text and files, encrypt adn decrypts passwords, data files,
+and create authentication tags and more. There are ten different options listed below
 
 OPTIONS:
 
